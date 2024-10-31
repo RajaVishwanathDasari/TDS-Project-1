@@ -1,0 +1,3 @@
+- This project scrapes data from GitHub API to list users in Stockholm with over 100 followers and their repositories.
+- Interesting finding: Many users in Stockholm are actively contributing to open-source, often in languages like Python and JavaScript.
+- Recommendation: Developers should consider collaboration opportunities in these popular languages to build connections.

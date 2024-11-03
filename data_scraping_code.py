@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 # Set up the GitHub access token
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "ghp_lp0N6pOVuu6oW**************"   #Removed the token due to security issues 
 HEADERS = {'Authorization': f'token {GITHUB_TOKEN}'}
 
 # Define the city and follower threshold
